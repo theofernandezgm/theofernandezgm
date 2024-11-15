@@ -17,20 +17,21 @@
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/theo-fern%C3%A1ndez/)
 
 ### Connect with me:
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/theo-fern%C3%A1ndez" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Theo's LinkedIn" height="30" width="40" />
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Theo's LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/theofernandezgm" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Theo's Instagram" height="30" width="40" />
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Theo's Instagram" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/imthinkingmiku" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Theo's LeetCode" height="30" width="40" />
+    <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Theo's LeetCode" height="30" width="40" />
   </a>
 </p>
+<br>
 
 ### Languages and Tools:
-<p align="center">
+<p>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
   </a>
@@ -77,15 +78,17 @@
     <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40" />
   </a>
 </p>
+<br>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theofernandezgm&show_icons=true&locale=en&layout=compact&theme=dark" alt="theofernandezgm" />
+### Stats:
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theofernandezgm&show_icons=true&locale=en&layout=compact&theme=dark" alt="theofernandezgm" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theofernandezgm&show_icons=true&locale=en&theme=dark" alt="theofernandezgm" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=theofernandezgm&show_icons=true&locale=en&theme=dark" alt="theofernandezgm" />
 </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theofernandezgm&theme=dark" alt="theofernandezgm" />
+<p>
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=theofernandezgm&theme=dark" alt="theofernandezgm" />
 </p>
