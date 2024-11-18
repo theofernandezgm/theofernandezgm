@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [League Champ Select Coach](https://github.com/theofernandezgm/leaguecoach)
+- 🔭 I’m currently working on a [Life Quest Tracker](https://github.com/theofernandezgm/leaguecoach)
 
 - 🌱 I’m currently learning **Java, Python, Courses**
 
