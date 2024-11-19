@@ -80,5 +80,5 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=theofernandezgm&theme=dark" alt="theofernandezgm" />
+  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=theofernandezgm&theme=dark" alt="theofernandezgm" />
 </p>
