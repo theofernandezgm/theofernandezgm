@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a [Life Quest Tracker](https://github.com/theofernandezgm/leaguecoach)
 
-- 🌱 I’m currently learning **Java, Python, Courses**
+- 🌱 I’m currently learning **Java, Python, Flutter, Courses**
 
 - 📫 How to reach me **theofernandezgm@gmail.com**
 
