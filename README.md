@@ -76,10 +76,6 @@
 
 ### Stats:
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=theofernandezgm&show_icons=true&locale=en&layout=compact&theme=dark" alt="theofernandezgm" />
-</p>
-
-<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=theofernandezgm&show_icons=true&locale=en&theme=dark" alt="theofernandezgm" />
 </p>
 
