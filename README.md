@@ -1,12 +1,6 @@
 <h1 align="center" style="color: #e3e3e3;">Hi 👋, I'm Theo</h1>
 <h3 align="center" style="color: #b0b0b0;">A cybersecurity enthusiast and backend programming student.</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <!-- Dark mode compatible trophy section -->
-    <img src="https://github-profile-trophy.vercel.app/?username=theofernandezgm&theme=dark" alt="theofernandezgm" />
-  </a>
-</p>
 
 - 🔭 I’m currently working on a [Life Quest Tracker](https://github.com/theofernandezgm/leaguecoach)
 
