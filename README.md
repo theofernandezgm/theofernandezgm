@@ -13,7 +13,7 @@
 
 ### Connect with me:
 <p>
-  <a href="https://linkedin.com/in/theo-fern%C3%A1ndez" target="blank">
+  <a href="https://linkedin.com/in/theo-fern%C3%A1ndez" target="blank"> 
     <img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Theo's LinkedIn" height="30" width="40" />
   </a>
   <a href="https://instagram.com/theofernandezgm" target="blank">
