@@ -1,76 +1,56 @@
-<h1 align="center">👋 Hi, I'm Theo</h1>
-<h3 align="center">💻 Cybersecurity Enthusiast | Backend Programming Student</h3>
+<h1 align="center">Hi 👋, I'm Theo Fernández</h1>
+<h3 align="center">Cybersecurity enthusiast, backend developer & co-founder of <a href="https://opexxai.info">OPEX</a></h3>
 
 ---
 
-<p align="center">
-  <a href="https://github.com/theofernandezgm/CheckinPal">
-    <img src="https://img.shields.io/badge/Current%20Project-CheckinPal-blue?style=for-the-badge&logo=github" alt="CheckinPal Project" />
-  </a>
-  <a href="mailto:theofernandezgm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-theofernandezgm@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
+### 🌱 About Me
+I’m passionate about building apps for **mental health and ADHD management**, and currently leading **OPEX**, an AI-powered workflow automation platform for small businesses.  
+
+I enjoy turning ideas into **impactful software** and constantly learning new technologies to improve my craft.
+
+---
+
+### 🔭 Current Projects
+- [CheckinPal](https://github.com/theofernandezgm/CheckinPal) – A personal project to track daily habits, mental health check-ins, and ADHD-friendly productivity.
+- [OPEX](https://opexxai.info) – Co-founder & leader. AI workflow automation and predictive analytics for SMBs.
+
+---
+
+### 💻 Tech Stack
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
 </p>
 
 ---
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on **[CheckinPal](https://github.com/theofernandezgm/CheckinPal)**
-- 🌱 I’m currently learning **Java, Python, Dart, and exploring advanced courses**
-- 📫 Reach me at: **theofernandezgm@gmail.com**
-- 📄 My professional journey: [LinkedIn](https://www.linkedin.com/in/theo-fern%C3%A1ndez/)
+### 📫 How to Reach Me
+- Email: **theofernandezgm@gmail.com**  
+- LinkedIn: [Theo Fernández](https://www.linkedin.com/in/theo-fern%C3%A1ndez/)  
+- Instagram: [@theofernandezgm](https://instagram.com/theofernandezgm)  
+- LeetCode: [imthinkingmiku](https://www.leetcode.com/imthinkingmiku)
 
 ---
 
-## 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/theofernandezgm" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/theofernandezgm" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.leetcode.com/imthinkingmiku" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-F79F1F?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
+### 🌟 GitHub Stats
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=theofernandezgm&show_icons=true&theme=dracula&line_height=27" alt="Theo's GitHub stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofernandezgm&theme=dracula" alt="Theo's Top Languages"/>
 </p>
 
 ---
 
-## 🛠 Languages & Tools
+### ⚡ Fun Facts
+- I love **creating apps that help people manage mental health & ADHD**.  
+- I lead **OPEX**, helping SMBs automate workflows and make smarter business decisions using AI.  
+- I’m constantly **experimenting with full-stack projects** and optimizing backend architectures.
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" alt="Django" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron" width="40" height="40" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theofernandezgm&show_icons=true&theme=dracula&line_height=27" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofernandezgm&theme=dracula" alt="Top Languages" />
-</p>
-
----
-
-## 💡 Fun Fact
-
-> I love building tools and apps that merge **cybersecurity, automation, and gamification** to make tech fun and useful!
