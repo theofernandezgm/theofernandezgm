@@ -34,7 +34,7 @@ I enjoy transforming ideas into **impactful software** and constantly learning t
 </tr>
 <tr>
 <td align="center">
-<b>CheckinPal</b><br>
+<b>Life Quest Tracker</b><br>
 Track daily habits, mental health check-ins, and ADHD-friendly productivity.
 </td>
 <td align="center">
