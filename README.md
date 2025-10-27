@@ -22,8 +22,8 @@ I enjoy transforming ideas into **impactful software** and constantly learning t
 <table>
 <tr>
 <td align="center">
-<a href="https://github.com/theofernandezgm/CheckinPal">
-  <img src="https://raw.githubusercontent.com/theofernandezgm/CheckinPal/main/assets/logo.png" alt="CheckinPal" width="120" />
+<a href="https://github.com/theofernandezgm/Life_Quest_Tracker">
+  <img src="https://raw.githubusercontent.com/theofernandezgm/Life_Quest_Tracker/main/assets/logo.png" alt="Life_Quest_Tracker" width="120" />
 </a>
 </td>
 <td align="center">
