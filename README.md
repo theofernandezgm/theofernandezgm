@@ -22,7 +22,7 @@ for mental health & ADHD, and poke at security to understand how things break.
 
 ## ⚙️ Now — OPEX
 
-I co-founded [**OPEX**](https://opexxai.info), an AI workflow-automation and predictive-analytics platform for small businesses. Small teams drown in repetitive operations — we build the layer that takes that work off their plate, so they can run like companies twice their size.
+I Founded [**OPEX**](https://opexxai.info), an AI workflow-automation and predictive-analytics platform for small businesses. Small teams drown in repetitive operations — we build the layer that takes that work off their plate, so they can run like companies twice their size.
 
 **→ [opexxai.info](https://opexxai.info) · [site source](https://github.com/theofernandezgm/OPEX)**
 
