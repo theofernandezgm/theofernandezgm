@@ -2,12 +2,11 @@
 
 <div align="center">
 
-# Hi, I'm Theo 👋
+# Theo Fernández Garozzo-Manca
 
-**Backend developer · Founder of [OPEX](https://opexxai.info) · Barcelona, Spain**
+**Backend Developer · Founder of [OPEX](https://opexxai.info) · Barcelona, Spain**
 
-I build AI automation for small businesses at OPEX, care most about software
-for mental health & ADHD, and poke at security to understand how things break.
+[English](#english) · [Español](#español)
 
 <br>
 
@@ -20,19 +19,59 @@ for mental health & ADHD, and poke at security to understand how things break.
 
 ---
 
-## ⚙️ Now — OPEX
+## English
 
-I Founded [**OPEX**](https://opexxai.info), an AI workflow-automation and predictive-analytics platform for small businesses. Small teams drown in repetitive operations — we build the layer that takes that work off their plate, so they can run like companies twice their size.
+Backend developer based in Barcelona, with a particular interest in cybersecurity. My work focuses on two areas: OPEX, the company I founded, and technology for mental health and ADHD.
 
-**→ [opexxai.info](https://opexxai.info) · [site source](https://github.com/theofernandezgm/OPEX)**
+### OPEX
 
-## 🧠 Always — mental health & ADHD tech
+I founded [**OPEX**](https://opexxai.info), an AI workflow-automation and predictive-analytics platform for small businesses. OPEX removes repetitive operational work so that small teams can run with the capacity of far larger companies.
 
-This is the problem space I keep coming back to, and a big part of why I write software at all: tools for mental health and ADHD that are low-friction, forgiving, and built by someone who actually gets it.
+→ [opexxai.info](https://opexxai.info) · [site source](https://github.com/theofernandezgm/OPEX)
 
-- [**Life Quest Tracker**](https://github.com/theofernandezgm/Life_Quest_Tracker) — daily habits, mental-health check-ins and ADHD-friendly productivity, framed as a quest log for real life.
+### Mental health & ADHD
 
-## 🛠️ Tech I work with
+This is the field I keep returning to, and a large part of why I write software: tools for mental health and ADHD that are low-friction, forgiving of bad days, and designed with a genuine understanding of the people who use them.
+
+- [**Life Quest Tracker**](https://github.com/theofernandezgm/Life_Quest_Tracker) — daily habits, mental-health check-ins and ADHD-friendly productivity, structured as a quest log for everyday life.
+
+### Other projects
+
+| Project | Description |
+| --- | --- |
+| [CheckinPal](https://github.com/theofernandezgm/CheckinPal) | SaaS helping Airbnb hosts in Barcelona manage and automate their rentals · Java |
+| [trading_bot](https://github.com/theofernandezgm/trading_bot) | Algorithmic-trading experiments · Python |
+| [NullscapeRPG](https://github.com/theofernandezgm/NullscapeRPG) | Text-based RPG written entirely in Java |
+
+---
+
+## Español
+
+Desarrollador backend afincado en Barcelona, con especial interés en la ciberseguridad. Mi trabajo se centra en dos ámbitos: OPEX, la empresa que fundé, y la tecnología aplicada a la salud mental y el TDAH.
+
+### OPEX
+
+Fundé [**OPEX**](https://opexxai.info), una plataforma de automatización de flujos de trabajo con IA y analítica predictiva para pequeñas empresas. OPEX elimina el trabajo operativo repetitivo para que los equipos pequeños puedan funcionar con la capacidad de empresas mucho más grandes.
+
+→ [opexxai.info](https://opexxai.info) · [código del sitio](https://github.com/theofernandezgm/OPEX)
+
+### Salud mental y TDAH
+
+Es el ámbito al que siempre vuelvo y una de las razones principales por las que escribo software: herramientas para la salud mental y el TDAH sencillas de usar, tolerantes con los malos días y diseñadas desde una comprensión real de quienes las utilizan.
+
+- [**Life Quest Tracker**](https://github.com/theofernandezgm/Life_Quest_Tracker) — hábitos diarios, seguimiento del estado de ánimo y productividad adaptada al TDAH, planteado como un diario de misiones para la vida cotidiana.
+
+### Otros proyectos
+
+| Proyecto | Descripción |
+| --- | --- |
+| [CheckinPal](https://github.com/theofernandezgm/CheckinPal) | SaaS que ayuda a anfitriones de Airbnb en Barcelona a gestionar y automatizar sus alquileres · Java |
+| [trading_bot](https://github.com/theofernandezgm/trading_bot) | Experimentos de trading algorítmico · Python |
+| [NullscapeRPG](https://github.com/theofernandezgm/NullscapeRPG) | RPG de texto escrito íntegramente en Java |
+
+---
+
+## Stack
 
 **Languages**
 
@@ -57,31 +96,9 @@ This is the problem space I keep coming back to, and a big part of why I write s
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-## 📦 Other projects
-
-| Project | What it is |
-| --- | --- |
-| [CheckinPal](https://github.com/theofernandezgm/CheckinPal) | SaaS helping Airbnb hosts in Barcelona manage and automate their rentals · Java |
-| [trading_bot](https://github.com/theofernandezgm/trading_bot) | Algorithmic-trading experiments · Python |
-| [NullscapeRPG](https://github.com/theofernandezgm/NullscapeRPG) | Text-based RPG written entirely in Java |
-
-## 📊 GitHub
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=theofernandezgm&show_icons=true&hide_border=true&bg_color=00000000&theme=github_dark">
-  <img alt="Theo's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=theofernandezgm&show_icons=true&hide_border=true&bg_color=00000000">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theofernandezgm&layout=compact&hide_border=true&bg_color=00000000&theme=github_dark">
-  <img alt="Most used languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofernandezgm&layout=compact&hide_border=true&bg_color=00000000">
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
-  <sub>Open to interesting problems in automation, backend systems, or mental-health tech — <a href="mailto:theofernandezgm@gmail.com">say hi</a>.</sub>
+  <sub>Open to conversations about automation, backend systems or mental-health technology — <a href="mailto:theofernandezgm@gmail.com">get in touch</a>.</sub><br>
+  <sub>Abierto a hablar sobre automatización, sistemas backend o tecnología para la salud mental — <a href="mailto:theofernandezgm@gmail.com">escríbeme</a>.</sub>
 </div>
