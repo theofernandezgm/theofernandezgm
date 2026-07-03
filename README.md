@@ -1,108 +1,87 @@
-<h1 align="center">
-  <span style="background: linear-gradient(to right, #8e2de2, #4a00e0); -webkit-background-clip: text; color: transparent;">
-    Hi 👋, I'm Theo Fernández
-  </span>
-</h1>
-<h3 align="center" style="color: #b0b0b0;">
-  Cybersecurity enthusiast, backend developer & co-founder of <a href="https://opexxai.info">OPEX</a>
-</h3>
+<!-- Profile README · lives in github.com/theofernandezgm/theofernandezgm -->
 
----
-
-### 🌱 About Me
-I’m passionate about **building apps for mental health and ADHD management**, and currently leading **OPEX**, an AI workflow automation platform for small businesses.  
-
-I enjoy transforming ideas into **impactful software** and constantly learning to improve my craft.
-
----
-
-### 🔭 Current Projects
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<a href="https://github.com/theofernandezgm/Life_Quest_Tracker">
-  <img src="https://raw.githubusercontent.com/theofernandezgm/Life_Quest_Tracker/main/assets/logo.png" alt="Life_Quest_Tracker" width="120" />
-</a>
-</td>
-<td align="center">
-<a href="https://opexxai.info">
-  <img src="https://opexxai.info/opex.png" alt="OPEX" width="120" />
-</a>
-</td>
-</tr>
-<tr>
-<td align="center">
-<b>Life Quest Tracker</b><br>
-Track daily habits, mental health check-ins, and ADHD-friendly productivity.
-</td>
-<td align="center">
-<b>OPEX</b><br>
-AI workflow automation & predictive analytics for SMBs.
-</td>
-</tr>
-</table>
+# Hi, I'm Theo 👋
+
+**Backend developer · Co-founder of [OPEX](https://opexxai.info) · Barcelona, Spain**
+
+I build AI automation for small businesses at OPEX, care most about software
+for mental health & ADHD, and poke at security to understand how things break.
+
+<br>
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:theofernandezgm@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/in/theo-fern%C3%A1ndez/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/theofernandezgm)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/imthinkingmiku/)
+
 </div>
 
 ---
 
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-</p>
+## ⚙️ Now — OPEX
+
+I co-founded [**OPEX**](https://opexxai.info), an AI workflow-automation and predictive-analytics platform for small businesses. Small teams drown in repetitive operations — we build the layer that takes that work off their plate, so they can run like companies twice their size.
+
+**→ [opexxai.info](https://opexxai.info) · [site source](https://github.com/theofernandezgm/OPEX)**
+
+## 🧠 Always — mental health & ADHD tech
+
+This is the problem space I keep coming back to, and a big part of why I write software at all: tools for mental health and ADHD that are low-friction, forgiving, and built by someone who actually gets it.
+
+- [**Life Quest Tracker**](https://github.com/theofernandezgm/Life_Quest_Tracker) — daily habits, mental-health check-ins and ADHD-friendly productivity, framed as a quest log for real life.
+
+## 🛠️ Tech I work with
+
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Backend & data**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+## 📦 Other projects
+
+| Project | What it is |
+| --- | --- |
+| [CheckinPal](https://github.com/theofernandezgm/CheckinPal) | SaaS helping Airbnb hosts in Barcelona manage and automate their rentals · Java |
+| [trading_bot](https://github.com/theofernandezgm/trading_bot) | Algorithmic-trading experiments · Python |
+| [NullscapeRPG](https://github.com/theofernandezgm/NullscapeRPG) | Text-based RPG written entirely in Java |
+
+## 📊 GitHub
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=theofernandezgm&show_icons=true&hide_border=true&bg_color=00000000&theme=github_dark">
+  <img alt="Theo's GitHub stats" height="165" src="https://github-readme-stats.vercel.app/api?username=theofernandezgm&show_icons=true&hide_border=true&bg_color=00000000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=theofernandezgm&layout=compact&hide_border=true&bg_color=00000000&theme=github_dark">
+  <img alt="Most used languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofernandezgm&layout=compact&hide_border=true&bg_color=00000000">
+</picture>
+
+</div>
 
 ---
 
-### 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/theo-fern%C3%A1ndez/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/theofernandezgm" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://www.leetcode.com/imthinkingmiku" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
-  </a>
-  <a href="mailto:theofernandezgm@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-### 🌟 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theofernandezgm&show_icons=true&theme=dracula&line_height=27" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theofernandezgm&theme=dracula" />
-</p>
-
----
-
-### ⚡ Fun Facts
-- 💡 I love creating **apps that help people manage mental health & ADHD**  
-- 🚀 Co-founder & leader at **OPEX**, helping SMBs automate workflows and make smarter business decisions  
-- 🛠 I enjoy **full-stack development**, backend optimization & exploring new tech  
-
----
-
-### 📌 Let’s Collaborate
-If you’re building something impactful in mental health, AI, or workflow automation, let’s connect!  
-
-<p align="center">
-  <a href="mailto:theofernandezgm@gmail.com">
-    <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
+<div align="center">
+  <sub>Open to interesting problems in automation, backend systems, or mental-health tech — <a href="mailto:theofernandezgm@gmail.com">say hi</a>.</sub>
+</div>
