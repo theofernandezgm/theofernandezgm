@@ -4,7 +4,7 @@
 
 # Hi, I'm Theo 👋
 
-**Backend developer · Co-founder of [OPEX](https://opexxai.info) · Barcelona, Spain**
+**Backend developer · Founder of [OPEX](https://opexxai.info) · Barcelona, Spain**
 
 I build AI automation for small businesses at OPEX, care most about software
 for mental health & ADHD, and poke at security to understand how things break.
